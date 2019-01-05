@@ -8,3 +8,7 @@
 
 - yarn install
 - yarn start
+
+# screen shot movie
+
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/23207002/50724741-90b17a80-1135-11e9-8ace-638939e46bc1.png)](https://drive.google.com/file/d/145ZmfzpgG8mcKRGThYfpNEuA01WYiwW8/view)
